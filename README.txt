@@ -1,0 +1,2 @@
+Esto se trata de un ejemplo creado en python 2.7 con Django 1.4 siguiendo el ejemplo de Maestros del Web (http://www.maestrosdelweb.com/editorial/curso-django-instalacion-y-primera-aplicacion/).
+Utilizo este ejemplo para un practica del Máster de Ingenieria Web de la Universidad de Oviedo consistente en crear y destruir servidores segun carga de trabajo con puppet. Si tengo tiempo colgaré detalladamente el proceso.
